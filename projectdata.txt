@@ -1,0 +1,27 @@
+!India
+@Strawberry
+$Giraffe
+%Classroom
+#Virat Kohli
+!Pakistan
+@Watermelon
+$Elephant
+%Black Board
+#Hardik Pandya
+!United States
+@Orange
+$Hippopotamus
+%White Board
+#Ishan Kishan
+!Russia
+@blackberry
+$Kangaroo
+%Library
+#Sachin Tendulkar
+!Australia
+!Africa
+!China
+!France
+!Germany
+#Rohit Sharma
+
